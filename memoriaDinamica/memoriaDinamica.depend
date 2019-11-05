@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571756458 source:c:\users\alumno\documents\codeblocks\memoriadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1571756274 c:\users\alumno\documents\codeblocks\memoriadinamica\persona.h
+
